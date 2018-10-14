@@ -54,6 +54,16 @@ This is similar board. I found firms for T.VST59.031, it is not matched to _LA.M
 6. Finally, you found more than one directory, check the model number in the directory name, compare to your panel, then select the one more similar to your panel.
     - \*For example about _LQ170M1LA4B_, we found some directories in 7key. This panel is 17inch, for _B170UW01V0_ is maybe better choice.
 
+	
+### VS.T5965.81
+
+Found at this card, it comes with an Raphael 840 tuner. Thanks to the seller for the permision to share the firmware files.
+
+[https://www.ebay.com/itm/V29-Universal-LCD-Controller-Board-TV-Motherboard-Support-7-55-inch-LVDS-Screen/183190128496?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649]
+
+Don't know the code for the service menu yet.
+
+### Just the same steps described above. The filename is VST29XX_BOOT.bin in this case it's size is 741.609 bytes.
 
 ### MEMO
 
