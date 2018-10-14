@@ -57,7 +57,7 @@ This is similar board. I found firms for T.VST59.031, it is not matched to _LA.M
 	
 ### VS.T5965.81
 
-Found at this card, it comes with an Raphael 840 tuner. Thanks to the seller for the permision to share the firmware files.
+Found at this card, it comes with an Raphael 840 tuner and chip TSUM.V29. Thanks to the seller for the permision to share the firmware files.
 
 [https://www.ebay.com/itm/V29-Universal-LCD-Controller-Board-TV-Motherboard-Support-7-55-inch-LVDS-Screen/183190128496?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649]
 
